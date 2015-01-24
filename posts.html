@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+{% for post in paginator.posts %}
+<p class="meta">
+  {{ post.date | date: "%B %d, %Y" }} 
+  <a href="/">
+    <i class="home fa fa-home"></i>
+  </a>
+</p>
+
+<h1 class="title">{{ post.title }}</h1>
+
+<div id="post">
+  {{ post.content }}
+</div>
+
+{% endfor %}
