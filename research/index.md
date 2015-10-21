@@ -7,7 +7,7 @@ My research focuses on applying theories about human organisations' management o
 
 ## Publications
 
-**Sam Macbeth**, "Multi-agent based simulation of self-governing knowledge commons," _PhD Thesis_, 2015. (pending corrections)
+**Sam Macbeth**, "Multi-agent based simulation of self-governing knowledge commons," _PhD Thesis_, 2015. [pdf](https://spiral.imperial.ac.uk:8443/bitstream/10044/1/25751/1/Macbeth-S-2015-PhD-Thesis.pdf)
 
 **Sam Macbeth** and Jeremy Pitt, "Self-organising management of user-generated data and knowledge," _The Knowledge Engineering Review_, 2014. [pdf](http://journals.cambridge.org/action/displayFulltext?type=1&fid=9426133&jid=KER&volumeId=-1&issueId=-1&aid=9426089&bodyId=&membershipNumber=&societyETOCSession=)
 
