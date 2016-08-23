@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Study: User tracking in online banking
+title: "Study: User tracking in online banking"
 categories:
- - blog
+- blog
 ---
 
 My study on third-party trackers observed on German online-banking portals is now available as a [whitepaper](https://cliqz.com/content/2-aboutus/3-presse/9-pressemitteilung-cliqz-tracking-beim-online-banking/cliqz-study-tracking-in-online-banking.pdf).
