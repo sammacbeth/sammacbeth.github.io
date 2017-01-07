@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-I'm a software developer and PhD graduate based in Munich, Germany. I am currently working at [Cliqz](https://cliqz.com/en/aboutus), developing innovative and user-empowering software in the browser.
+I'm a software developer and PhD graduate based in Munich, Germany. I am currently working at [Cliqz](https://cliqz.com/en/aboutus), developing innovative, user-empowering, and privacy-preserving software in the browser. Specifically, this is Cliqz' [anti-tracking](https://cliqz.com/en/whycliqz/anti-tracking) system, which prevents [online tracking](https://cliqz.com/en/magazine/how-we-at-cliqz-protect-users-from-web-tracking) of our users. 
 
 I completed my PhD in 2015 at Imperial College London, studying the application of self-organising governance to computational systems which gather information and knowledge. My work is published in peer-reviewed journals, books and conference proceedings, and can be found on the [research](/research) page.
 

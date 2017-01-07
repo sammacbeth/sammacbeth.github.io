@@ -23,7 +23,7 @@ email: test@example.com
 tagline: ""
 
 # Google Analytics key, leave blank to ignore
-google_analytics_key: UA-xxxx-x
+google_analytics_key: 
 
 # Toggle "Postings are my own" disclaimer in footer
 show_disclaimer: true
