@@ -11,14 +11,14 @@ This method has the advantage that it will follow `\input` and `\include` comman
 
 General usage is to use detex to strip all tex markup from a document, then word count the resulting text. For example with the 'wc' command line utility:
 
-{% highlight bash %}
+```bash
 $ detex MacbethThesis.tex | wc -w
 > 31412
-{% endhighlight %}
+```
 
 Note that this method seems more accurate to the alternative of copy and pasting the contents of the output pdf file into a text editor and word counting that file. This method splits up hyphenated words into two, and counts page numbers etc. As an example, take the following which converts the same document as above to text and word counts the result:
 
-{% highlight bash %}
+```bash
 $ pdftotext MacbethThesis.pdf - | wc -w
 > 66641
-{% endhighlight %}
+```

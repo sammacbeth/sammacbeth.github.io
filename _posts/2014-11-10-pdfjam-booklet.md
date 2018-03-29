@@ -13,6 +13,6 @@ The `pdfbook` command reorganises an input document such that when printed it wi
 
 A simple example of creating an A5 booklet from an A4 input PDF:
 
-{% highlight bash %}
+```bash
 $ pdfbook --a4paper Input.pdf
-{% endhighlight %}
+```
