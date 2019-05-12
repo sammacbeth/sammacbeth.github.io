@@ -1,5 +1,5 @@
 # General Jekyll Config
 url: https://sammacbeth.eu
 lsi: false
-exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
+exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock, azure-pipelines.yml]
 paginate: 5
