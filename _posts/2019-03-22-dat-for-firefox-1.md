@@ -45,4 +45,4 @@ Finally, to support the `DatArchive` API, this class needed to be added to the `
 
 While dat-fox does enable browsing the Dat web, multiple limitations of the Webextension API mean that this support is second-class: Users have to install a separate executable to bridge to Dat, and when visiting Dat sites the URL bar still displays `http://` as the protocol. 
 
-To overcome these limitations we have to extend beyond what a standard Webextension can do, using experimental APIs to bring fully-fledged Dat support. In the next post I'll describe how [dat-webext]() bundles the Dat networking stack inside a Webextension using libdweb networking and protocol handler.
+To overcome these limitations we have to extend beyond what a standard Webextension can do, using experimental APIs to bring fully-fledged Dat support. In the [next post](/blog/2019/03/22/dat-for-firefox-2.html) I'll describe how [dat-webext](https://github.com/cliqz-oss/dat-webext) bundles the Dat networking stack inside a Webextension using libdweb networking and protocol handler.
