@@ -82,7 +82,7 @@ In dat-webext we package an [extra experimental API](https://github.com/cliqz-os
 
 You can test out dat-webext in [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/#nightly) or [Developer Edition](https://www.mozilla.org/en-US/firefox/developer/):
 
-```bas
+```bash
 git clone https://github.com/cliqz-oss/dat-webext
 cd dat-webext
 npm install
