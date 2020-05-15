@@ -3,13 +3,15 @@ layout: page
 title: About Me
 ---
 
-I'm a software developer and PhD graduate based in Munich, Germany. I am currently working at [Cliqz](https://cliqz.com/en/aboutus), developing innovative, user-empowering, and privacy-preserving software in the browser. Specifically, this is Cliqz' and Ghostery's [anti-tracking](https://cliqz.com/en/whycliqz/anti-tracking) system, which prevents [online tracking](https://cliqz.com/en/magazine/how-we-at-cliqz-protect-users-from-web-tracking) of our users. 
+I'm a software developer and PhD graduate based in Munich, Germany. I am currently working at [Cliqz](https://cliqz.com/en/aboutus), developing innovative, user-empowering, and privacy-preserving software in the browser. Specifically, this is Cliqz' and Ghostery's [anti-tracking](https://cliqz.com/en/whycliqz/anti-tracking) system, which prevents [online tracking](https://cliqz.com/en/magazine/how-we-at-cliqz-protect-users-from-web-tracking) of our users.
+I also participate in the [W3C Privacy Community Group](https://privacycg.github.io/charter.html), an attempt to standardise tracking protection approaches
+across browsers.
 
 I am interested in Decentralised and Federated tech, and am a keen self-hoster. I occasionally post things on the [posts](/posts) page.
 
 ## Experience
 
-##### Software Developer, Cliqz
+##### Tech Lead, Cliqz
 _2015 to present_
 
 As part of the privacy team at Cliqz I am primarily responsible for Cliqz anti-tracking technology. Highlights include:
@@ -18,7 +20,8 @@ As part of the privacy team at Cliqz I am primarily responsible for Cliqz anti-t
  * Building the data analysis required for the [whotracks.me](https://whotracks.me/) website, and contributing regularly to blogs there about online tracking.
  * Development of the data aggregation pipeline behind anti-tracking which deploys data-driven whitelists daily, using [Spark](https://spark.apache.org/) and [Luigi](https://github.com/spotify/luigi) as core technologies.
  * Implementing intelligent anti-tracking on mobile using [React-Native](https://facebook.github.io/react-native/) as a Javascript runtime. This work enabled parts of the Cliqz [browser extension](https://github.com/cliqz-oss/browser-core) to be run in our [mobile](https://github.com/cliqz-oss/browser-ios/tree/development/Client/Cliqz/Foundation/JSEngine) [apps](https://github.com/cliqz-oss/browser-android/tree/master/app/src/main/java/com/cliqz/jsengine) using the same code base.
- * Wrote multiple whitepapers and articles on online tracking and privacy, and spoke at events including [PrivacyWeek 2017](https://media.ccc.de/v/pw17-171-tracking_the_trackers).
+ * Wrote multiple whitepapers and articles on online tracking and privacy, and spoke at events including [PrivacyWeek 2017](https://media.ccc.de/v/pw17-171-tracking_the_trackers) and
+ [FOSDEM 2020](https://fosdem.org/2020/schedule/event/dip_dat_browser/).
 
 ##### Technical Consultant, University College London
 _March 2015_
