@@ -35,6 +35,8 @@ My thesis, entitled "Multi-agent Based Simulation of Self-Governing Knowledge Co
 
 ## Publications
 
+Arjaldo Karaj, **Sam Macbeth**, Rémi Berson, Josep M. Pujol, "WhoTracks.Me: Shedding light on the opaque world of online tracking," Arxiv, [pdf](https://arxiv.org/pdf/1804.08959.pdf)
+
 **Sam Macbeth**, "Tracking the Trackers: Analysing the global tracking landscape with GhostRank," _Whitepaper_, Cliqz/Ghostery, 2017. [pdf](https://www.ghostery.com/wp-content/themes/ghostery/images/campaigns/tracker-study/Ghostery_Study_-_Tracking_the_Trackers.pdf)
 
 **Sam Macbeth**, "Tracking and Online Banking: A Survey", _Whitepaper_, Cliqz, 2016. [pdf](https://cliqz.com/content/2-aboutus/3-presse/9-pressemitteilung-cliqz-tracking-beim-online-banking/cliqz-study-tracking-in-online-banking.pdf)
