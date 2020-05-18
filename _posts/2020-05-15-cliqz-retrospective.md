@@ -12,7 +12,7 @@ we built during that time from my perspective, working on privacy and our web br
 ### Anti-tracking
 
 Our anti-tracking, released in 2015, was---and still is---one of the most sophisticated anti-tracking systems available.
-The Cliqz browser had this anti-tracking enabled by default from it's first version, while at that time no other browser
+The Cliqz browser had this anti-tracking enabled by default from its first version, while at that time no other browser
 had any protection by default (Safari's ITP would come two years later). Now all major browsers (except Chrome) ship with
 tracking protections that are enabled by default, and Chrome are looking to deprecate third-party cookies entirely within
 two years.
