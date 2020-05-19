@@ -6,7 +6,7 @@ categories:
 ---
 
 Almost 5 years after I joined Cliqz, the company will be [shutting down](https://cliqz.com/en/magazine/farewell-from-cliqz)
-and cease to operate as it has done up to this point. This post is a look back at some of the exiting things
+and cease to operate as it has done up to this point. This post is a look back at some of the exciting things
 we built during that time from my perspective, working on privacy and our web browsers.
 
 ### Anti-tracking
