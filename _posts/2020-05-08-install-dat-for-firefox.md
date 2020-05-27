@@ -12,7 +12,7 @@ As the extension uses [experimental APIs](https://github.com/libdweb/libdweb), i
 
  1. Go to the `about:config` page and set `xpinstall.signatures.required` to `false` and `extensions.experiments.enabled` to `true`
  ![Setting prefs in about:config](/assets/images/firefox-prefs.png)
- 2. Download the [latest version](https://github.com/cliqz-oss/dat-webext/releases/download/v0.2.1/dat_protocol-0.2.1.zip) of the extension.
+ 2. Download the [latest version](https://github.com/cliqz-oss/dat-webext/releases/download/v0.2.3/dat_protocol-0.2.3.zip) of the extension.
  3. Go to about:addons and choose 'Install addon from file' from the cog menu in the top right, then browse to zip file you just downloaded. The browser will ask for permissions to install.
  ![Setting prefs in about:config](/assets/images/install-addon-from-file.png)
 
