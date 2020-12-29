@@ -5,7 +5,7 @@ categories:
 - blog
 ---
 
-Over the last few months a small team of us at Cliqz have been building the new [Ghostery browser](https://github.com/ghostery/user-agent-desktop) as a Firefox fork. Drawing on our experience developing and maintaining the Cliqz browser, also a Firefox fork, over the last 5 years, we wanted to figure out a way to have as lightweight as possible fork, while also making the browser differentiated from vanilla Firefox.
+Over the last few months a small team of us at Cliqz have been building the new [Ghostery browser](https://github.com/ghostery/user-agent-desktop) as a Firefox fork. Drawing on our experience developing and maintaining the [Cliqz browser](https://github.com/cliqz-oss/browser-f), also a Firefox fork, over the last 5 years, we wanted to figure out a way to have as lightweight as possible fork, while also making the browser differentiated from vanilla Firefox.
 
 Working on a fork of a high velocity project is challenging for several reasons:
 
