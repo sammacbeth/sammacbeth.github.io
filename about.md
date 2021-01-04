@@ -3,7 +3,8 @@ layout: page
 title: About Me
 ---
 
-I'm a software developer and PhD graduate based in Munich, Germany. I am currently working at [Cliqz](https://cliqz.com/en/aboutus), developing innovative, user-empowering, and privacy-preserving software in the browser. Specifically, this is Cliqz' and Ghostery's [anti-tracking](https://cliqz.com/en/whycliqz/anti-tracking) system, which prevents [online tracking](https://cliqz.com/en/magazine/how-we-at-cliqz-protect-users-from-web-tracking) of our users.
+I'm a software developer and PhD graduate based in Munich, Germany. I am currently working in the privacy team at [DuckDuckGo](https://duckduckgo.com/). I previously worked at
+[Cliqz](https://cliqz.com/en/aboutus), developing innovative, user-empowering, and privacy-preserving software in the browser. Specifically, Cliqz' and Ghostery's [anti-tracking](https://cliqz.com/en/whycliqz/anti-tracking) system, which prevents [online tracking](https://cliqz.com/en/magazine/how-we-at-cliqz-protect-users-from-web-tracking) of our users.
 I also participate in the [W3C Privacy Community Group](https://privacycg.github.io/charter.html), an attempt to standardise tracking protection approaches
 across browsers.
 
@@ -11,8 +12,11 @@ I am interested in Decentralised and Federated tech, and am a keen self-hoster. 
 
 ## Experience
 
+##### Senior Privacy Engineer, DuckDuckGo
+_2021 onwards_
+
 ##### Tech Lead, Cliqz
-_2015 to present_
+_2015 to 2020_
 
 As part of the privacy team at Cliqz I am primarily responsible for Cliqz anti-tracking technology. Highlights include:
 

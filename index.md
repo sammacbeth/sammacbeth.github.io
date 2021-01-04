@@ -5,7 +5,7 @@ title:
 
 Hi, I'm Sam and I write code that keeps you private.
 
-I work at [Cliqz](https://cliqz.com) on our anti-tracking technology, which can also be found 
+I'm a Privacy Engineer at DuckDuckGo, and previously worked at [Cliqz](https://cliqz.com) on their anti-tracking technology, which can also be found 
 in [Ghostery](https://www.ghostery.com).
 
 I also experiment with how we can make the web, and web browsers, empower users with local-first and p2p
